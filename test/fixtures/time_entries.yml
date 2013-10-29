@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  project_id: 
+  client_id: 
+  description: MyString
+  minutes: 1
+  billable: false
+
+two:
+  project_id: 
+  client_id: 
+  description: MyString
+  minutes: 1
+  billable: false
